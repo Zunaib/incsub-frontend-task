@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Montserrat", "Raleway", "Quicksand", sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+//global
+@import "./global";
+
+//pages
+@import "./pages/singup";
+
+//components
+@import "./components/spinner";

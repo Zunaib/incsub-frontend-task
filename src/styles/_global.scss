@@ -1,0 +1,14 @@
+.link {
+  text-decoration: none;
+  color: #286efa;
+  font-weight: 700;
+  margin: 0 5px;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
