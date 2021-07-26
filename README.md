@@ -7,7 +7,7 @@
 ## Instructions to execute task
 
 - Install dependencies using - _npm install_
-- Execute project using _npm run start_
+- Execute project using - _npm run start_
 - Navigate to -- **/signup** -- if not already on signup page.
 
 ## Screenshot
