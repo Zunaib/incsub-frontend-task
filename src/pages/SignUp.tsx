@@ -12,25 +12,7 @@ function SignUp() {
           <span className="dot"></span>
         </div>
         <div className="form-container">
-          <h2>Lets setup your account.</h2>
-          <p className="sign-in-para">
-            Already have an account?
-            <a className="link" href="/#sign-in">
-              Sign in
-            </a>
-          </p>
           <SignUpForm />
-          <p className="t-and-c">
-            By clicking the "Next" button, you agree to creating a free account,
-            and do
-            <a className="link" href="/#terms">
-              Terms of Service
-            </a>
-            and
-            <a className="link" href="/#policy">
-              Privacy Policy
-            </a>
-          </p>
         </div>
       </div>
       <div className="child right">
